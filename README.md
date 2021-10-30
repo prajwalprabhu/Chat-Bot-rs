@@ -1,3 +1,3 @@
 # Chat-Bot-rs
 
-Async chat server and resiever written completely in rust
+Async chat server and reciever written completely in rust
